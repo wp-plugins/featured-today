@@ -12,7 +12,7 @@ Featured Today shows featured articles like it is shown on linkedin today.
 
 Featured Today allows you to show featured articles or latest articles from a category that you select. It is very simple to use, just place the 'fatured today widget' in the right widget area, select the category you want to display.
 
-This plugin was brought to you by [WPoid](http://wpoid.com/ "WordPress based development shop") development team.
+This plugin is brought to you by [WPoid](http://wpoid.com/ "WordPress based development shop") development team.
 
 Features
 
