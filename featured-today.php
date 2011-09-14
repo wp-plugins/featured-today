@@ -4,7 +4,7 @@
  * Description: Shows featured posts like linkedin today from selected category. This plugin was brought to you by WPoid team.
  * Author: 		WPoid( Nilam patel )
  * Plugin URI: 	http://wpoid.com
- * Version: 	1.0
+ * Version: 	1.0.1
  * =======================================================================
  */
 
