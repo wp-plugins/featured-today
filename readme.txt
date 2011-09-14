@@ -39,7 +39,7 @@ Just conatact us on [WPoid](http://wpoid.com/ "WordPress based development shop"
 
 1. This shows the horizontal view
 2. This is mouseover effect
-3. This hows vertical view
+3. This shows vertical view
 
 == Changelog ==
 
