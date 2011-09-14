@@ -1,0 +1,261 @@
+#linkedin-today {
+    clear: both;
+    font-size: 13px;
+    margin-bottom: 20px;
+    position: relative;
+}
+#linkedin-today .module-content {
+    position: relative;
+}
+#linkedin-today .header {
+    height: 1em;
+    margin-bottom: 5px;
+}
+#linkedin-today h2 {
+    font-size: 13px;
+}
+#linkedin-today h2 {
+    display: inline-block;
+    float: left;
+    font-weight: bold;
+    margin-right: 10px;
+}
+#linkedin-today h2 a {
+    color: #000000 !important;
+}
+#linkedin-today h2 a {
+    -moz-text-blink: none;
+    -moz-text-decoration-color: -moz-use-text-color;
+    -moz-text-decoration-line: none;
+    -moz-text-decoration-style: solid;
+}
+#linkedin-today .content {
+    border-bottom-color: #EAEAEA;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-top-color: #CCCCCC;
+	border-top-style: solid;
+	border-top-width: 1px;
+    overflow: hidden;
+	width:100%;
+}
+#linkedin-today .content ul {
+	width:100%;
+}
+#linkedin-today ul {
+	list-style:none;
+}
+ol, ul {
+    list-style: none;
+    list-style-position: outside;
+    list-style-type: none;
+}
+#linkedin-today li {
+    float: left;
+    height: 142px;
+    margin-right: 27px;
+    padding-bottom: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 10px;
+    position: relative;
+    width: 178px;
+}
+#linkedin-today li .article-link {
+    -moz-text-blink: none;
+    -moz-text-decoration-color: -moz-use-text-color;
+    -moz-text-decoration-line: none;
+    -moz-text-decoration-style: solid;
+    color: #333333;
+    display: block;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: relative;
+}
+#linkedin-today li .text {
+    display: block;
+    height: 70px;
+    overflow: hidden;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+}
+#linkedin-today li .article-title {
+    color: #333333;
+    display: block;
+    font-size: 12px;
+    max-height: 70px;
+    min-height: 24px;
+    overflow: hidden;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+}
+#linkedin-today li a:hover {
+	text-decoration:none;
+} 
+#linkedin-today li .meta {
+    color: #666666;
+    display: block;
+    font-size: 11px;
+    padding-top: 4px;
+}
+#linkedin-today li cite {
+    display: block;
+}
+#linkedin-today .image {
+    height: 109px;
+    overflow: hidden;
+    position: absolute;
+    width: 176px;
+	top:22px;
+	/* background:#FFFFFF; */
+	overflow:hidden !important;
+}
+#linkedin-today .image, #linkedin-today .newspaper {
+    display: block;
+    width: 176px;
+}
+#linkedin-today .image .image-border{
+	border-color:#FFFFFF;
+    border-style:solid;
+    border-width:1px;
+    display:block;
+    height:103px;
+    overflow:hidden;
+    position: relative;
+}
+#linkedin-today .image .image-offset {
+    /*border-color: #FFFFFF;
+    border-style: solid;
+    border-width: 3px;
+    display:block;
+    height:103px;
+    overflow:hidden;
+    position: relative;*/
+	background:#FFFFFF;
+	border-color:#DEDEDE;
+    border-style:solid;
+    border-bottom-width:1px;
+    border-width:1px;
+    border-left-width-value:1px;
+    height:101px;
+    overflow:hidden;
+    position:relative;
+    width:168px;
+	padding:3px;
+}
+
+#linkedin-today .article-link .image img {
+    position: absolute;
+	width:168px;
+	height:100px;
+}
+#linkedin-today li:hover .overlay, #linkedin-today li:hover .meta, #linkedin-today li:hover .share-ribbon {
+    visibility: visible;
+}
+/*
+#linkedin-today .article-link .image .image-offset:hover {
+	top:40px;
+}
+*/
+img {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-bottom-color: -moz-use-text-color;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color-value: -moz-use-text-color;
+    border-left-style-value: none;
+    border-left-width-value: medium;
+    border-right-color-value: -moz-use-text-color;
+    border-right-style-value: none;
+    border-right-width-value: medium;
+    border-top-color: -moz-use-text-color;
+    border-top-style: none;
+    border-top-width: medium;
+}
+#linkedin-today li .share-ribbon {
+    bottom:35px;
+    right: -2px;
+}
+.share-ribbon {
+    bottom: 5px;
+    position: absolute;
+    right: -8px;
+    text-align: right;
+}
+#linkedin-today .share-ribbon a {
+    background-position: -224px -849px;
+    font-size: 11px;
+}
+.share-ribbon a, .share-ribbon a:visited {
+    color: #FFFFFF;
+}
+.share-ribbon a {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 102, 153, 0.9);
+    background-origin: padding-box;
+    background-position: 7px -152px;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    padding-bottom: 2px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 2px;
+}
+a {
+    -moz-text-blink: none;
+    -moz-text-decoration-color: -moz-use-text-color;
+    -moz-text-decoration-line: none;
+    -moz-text-decoration-style: solid;
+    color: #006699;
+    outline-color: -moz-use-text-color;
+    outline-style: none;
+    outline-width: medium;
+}
+.share-ribbon {
+    text-align: right;
+}
+#linkedin-today li .share-ribbon .arrow {
+    left: auto;
+}
+.share-ribbon .arrow {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-bottom-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 0;
+    border-left-color-value: transparent;
+    border-left-style-value: solid;
+    border-left-width-value: 0;
+    border-right-color-value: transparent;
+    border-right-style-value: solid;
+    border-right-width-value: 7px;
+    border-top-color: rgba(0, 102, 153, 0.9);
+    border-top-style: solid;
+    border-top-width: 6px;
+    bottom: -6px;
+    height: 0;
+    position: absolute;
+    right: 0;
+    width: 0;
+}
+

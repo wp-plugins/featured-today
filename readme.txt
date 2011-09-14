@@ -1,0 +1,47 @@
+=== Featured Today ===
+Contributors: pateln54, thecancerus
+Donate link: http://wpoid.com/
+Tags: feature, featured, featured post list, featured posts, highlight, highlight posts, star, starred, linkedin today
+Requires at least: 3.0.0
+Tested up to: 3.2.2
+Stable tag: trunk
+
+Featured Today shows featured articles like it is shown on linkedin today.
+
+== Description ==
+
+Featured Today allows you to show featured articles or latest articles from a category that you select. It is very simple to use, just place the 'fatured today widget' in the right widget area, select the category you want to display.
+
+This plugin was brought to you by [WPoid](http://wpoid.com/ "WordPress based development shop") development team.
+
+Features
+
+- Displays as widget
+- You can set number of articles to show
+- You can select the category to use
+
+== Installation ==
+
+This section describes how to install the plugin and get it working.
+
+
+1. Upload `featured-today` folder to the `/wp-content/plugins/` directory
+1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Place the 'Featured Today Widget' in the widgetized area defined in your templates
+
+== Frequently Asked Questions ==
+
+=if you have a question =
+
+Just conatact us on [WPoid](http://wpoid.com/ "WordPress based development shop")
+
+== Screenshots ==
+
+1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
+the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
+2. This is the second screen shot
+
+== Changelog ==
+
+= 1.0 =
+* Initial version.
