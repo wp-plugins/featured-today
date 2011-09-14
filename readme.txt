@@ -37,9 +37,9 @@ Just conatact us on [WPoid](http://wpoid.com/ "WordPress based development shop"
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
-2. This is the second screen shot
+1. This shows the horizontal view
+2. This is mouseover effect
+3. This hows vertical view
 
 == Changelog ==
 
