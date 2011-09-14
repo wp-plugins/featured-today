@@ -45,3 +45,7 @@ Just conatact us on [WPoid](http://wpoid.com/ "WordPress based development shop"
 
 = 1.0 =
 * Initial version.
+
+
+= 1.0.1 =
+* removed the warnings that were showing.
