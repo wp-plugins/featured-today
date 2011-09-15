@@ -47,5 +47,8 @@ Just conatact us on [WPoid](http://wpoid.com/ "WordPress based development shop"
 * Initial version.
 
 
-= 1.0.1 =
+= 1.0.2 =
 * removed the warnings that were showing.
+
+= 1.0.3 =
+* saved category was not showing in the widget.

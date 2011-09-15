@@ -4,7 +4,7 @@
  * Description: Shows featured posts like linkedin today from selected category. This plugin was brought to you by WPoid team.
  * Author: 		WPoid( Nilam patel )
  * Plugin URI: 	http://wpoid.com
- * Version: 	1.0.2
+ * Version: 	1.0.3
  * =======================================================================
  */
 
@@ -59,7 +59,7 @@ class Linkedin_Today extends WP_Widget
 					<?php
 						foreach($categories as $cats)
 						{
-							if($category == $cats)
+							if($category ==  $cats->cat_ID)
 								$select = "selected=selected";
 							else
 								$select = "";
