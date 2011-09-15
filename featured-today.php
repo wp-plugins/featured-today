@@ -33,12 +33,12 @@ class Linkedin_Today extends WP_Widget
 		else
 			$category = '';
 			
-		if($instance['ftodayw_post_limit'])
+		if(isset($instance['ftodayw_post_limit']))
 			$post_limit = esc_attr($instance['ftodayw_post_limit']);
 		else	
 			$post_limit = '0';
 		
-		if($instance['ftodayw_widget_title'])		
+		if(isset($instance['ftodayw_widget_title']))		
 			$widget_title = esc_attr($instance['ftodayw_widget_title']);
 		else	
 			$widget_title = '';
