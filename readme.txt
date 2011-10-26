@@ -1,6 +1,6 @@
 === Featured Today ===
-Contributors: pateln54, thecancerus
-Donate link: http://wpoid.com/
+Contributors: pateln54, thecancerus,wpoets
+Donate link: http://wpoets.com/
 Tags: feature, featured, featured post list, featured posts, highlight, highlight posts, star, starred, linkedin today
 Requires at least: 3.0.0
 Tested up to: 3.2.2
