@@ -1,10 +1,10 @@
 <?php 
 /**
  * Plugin Name: Featured Today
- * Description: Shows featured posts like linkedin today from selected category. This plugin was brought to you by WPoid team.
- * Author: 		WPoid( Nilam patel )
- * Plugin URI: 	http://wpoid.com
- * Version: 	1.0.3
+ * Description: Shows featured posts like linkedin today from selected category. This plugin was brought to you by WPoets team.
+ * Author: 		WPoets Team( Nilam patel )
+ * Plugin URI: 	http://www.wpoets.com/plugins/introducing-featured-today-plugin-for-wordpress/
+ * Version: 	1.0.4
  * =======================================================================
  */
 
